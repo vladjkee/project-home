@@ -1,0 +1,18 @@
+@import url(./skills.css);
+@import url(./worked.css);
+@import url(./project.css);
+@import url(./partner.css);
+@import url(./contacts.css);
+@import url(./third.css);
+@import url(./footer.css);
+@import url(./header.css);
+
+  .center{
+    width: 100%;
+    max-width: 1150px;
+    margin: 0 auto;
+  }
+
+*{
+  box-sizing: border-box;
+}

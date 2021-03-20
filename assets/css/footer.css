@@ -1,0 +1,26 @@
+.footer{
+  background-color: var(--dark-blue);
+  width: 100%;
+  height: 151px;
+}
+h3{
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+  color: white;
+  margin-top: 50px;
+}
+.footer-about{
+  color: white;
+  font-size: 13px;
+  line-height: 21px;  
+  float: left;
+}
+.media{
+  font-size:50px;
+  float: right;
+  margin-top: 50px;
+  
+  color: white;
+}
